@@ -1,0 +1,18 @@
+# Segredos — nunca subir para o GitHub
+.env
+tri-backend/.env
+tri-frontend/.env
+
+# Backend (Go)
+tri-backend/app
+tri-backend/tri-backend
+tri-backend/*.exe
+
+# Frontend (Node / Vite)
+tri-frontend/node_modules/
+tri-frontend/dist/
+tri-frontend/.vite/
+
+# Sistema
+.DS_Store
+Thumbs.db
